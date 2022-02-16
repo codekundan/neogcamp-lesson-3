@@ -81,6 +81,7 @@ hr {
 
 .navigation .link-active {
     font-weight: bold;
+    text-align: center;
 }
 
 /* header */
